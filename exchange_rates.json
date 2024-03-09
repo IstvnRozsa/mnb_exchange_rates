@@ -1,0 +1,200 @@
+[
+    {
+        "id": "CHF",
+        "description": "svájci frank",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "EUR",
+        "description": "euro",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "USD",
+        "description": "USA dollár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "AUD",
+        "description": "ausztrál dollár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "BGN",
+        "description": "bolgár leva",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "BRL",
+        "description": "brazil reál",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "CAD",
+        "description": "kanadai dollár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "CNY",
+        "description": "kínai jüan",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "CZK",
+        "description": "cseh korona",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "DKK",
+        "description": "dán korona",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "GBP",
+        "description": "angol font",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "HKD",
+        "description": "hongkongi dollár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "IDR",
+        "description": "indonéz rúpia",
+        "rate": "100",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "ILS",
+        "description": "izraeli sékel",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "INR",
+        "description": "indiai rúpia",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "ISK",
+        "description": "izlandi korona",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "JPY",
+        "description": "japán jen",
+        "rate": "100",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "KRW",
+        "description": "dél-koreai won",
+        "rate": "100",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "MXN",
+        "description": "mexikói peso",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "MYR",
+        "description": "maláj ringgit",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "NOK",
+        "description": "norvég korona",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "NZD",
+        "description": "új-zélandi dollár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "PHP",
+        "description": "fülöp-szigeteki peso",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "PLN",
+        "description": "lengyel zloty",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "RON",
+        "description": "román lej",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "RSD",
+        "description": "szerb dinár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "RUB",
+        "description": "orosz rubel",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "SEK",
+        "description": "svéd korona",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "SGD",
+        "description": "szingapúri dollár",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "THB",
+        "description": "thai bát",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "TRY",
+        "description": "török líra",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "UAH",
+        "description": "ukrán hrivnya",
+        "rate": "1",
+        "date": "2024-03-08"
+    },
+    {
+        "id": "ZAR",
+        "description": "dél-afrikai rand",
+        "rate": "1",
+        "date": "2024-03-08"
+    }
+]
