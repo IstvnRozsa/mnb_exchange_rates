@@ -1,200 +1,200 @@
 [
     {
-        "id": "CHF",
+        "deviza_id": "CHF",
         "description": "svájci frank",
-        "rate": "1",
+        "rate": "411,66",
         "date": "2024-03-08"
     },
     {
-        "id": "EUR",
+        "deviza_id": "EUR",
         "description": "euro",
-        "rate": "1",
+        "rate": "394,59",
         "date": "2024-03-08"
     },
     {
-        "id": "USD",
+        "deviza_id": "USD",
         "description": "USA dollár",
-        "rate": "1",
+        "rate": "360,82",
         "date": "2024-03-08"
     },
     {
-        "id": "AUD",
+        "deviza_id": "AUD",
         "description": "ausztrál dollár",
-        "rate": "1",
+        "rate": "239,76",
         "date": "2024-03-08"
     },
     {
-        "id": "BGN",
+        "deviza_id": "BGN",
         "description": "bolgár leva",
-        "rate": "1",
+        "rate": "201,74",
         "date": "2024-03-08"
     },
     {
-        "id": "BRL",
+        "deviza_id": "BRL",
         "description": "brazil reál",
-        "rate": "1",
+        "rate": "73,11",
         "date": "2024-03-08"
     },
     {
-        "id": "CAD",
+        "deviza_id": "CAD",
         "description": "kanadai dollár",
-        "rate": "1",
+        "rate": "268,53",
         "date": "2024-03-08"
     },
     {
-        "id": "CNY",
+        "deviza_id": "CNY",
         "description": "kínai jüan",
-        "rate": "1",
+        "rate": "50,18",
         "date": "2024-03-08"
     },
     {
-        "id": "CZK",
+        "deviza_id": "CZK",
         "description": "cseh korona",
-        "rate": "1",
+        "rate": "15,57",
         "date": "2024-03-08"
     },
     {
-        "id": "DKK",
+        "deviza_id": "DKK",
         "description": "dán korona",
-        "rate": "1",
+        "rate": "52,93",
         "date": "2024-03-08"
     },
     {
-        "id": "GBP",
+        "deviza_id": "GBP",
         "description": "angol font",
-        "rate": "1",
+        "rate": "462,86",
         "date": "2024-03-08"
     },
     {
-        "id": "HKD",
+        "deviza_id": "HKD",
         "description": "hongkongi dollár",
-        "rate": "1",
+        "rate": "46,14",
         "date": "2024-03-08"
     },
     {
-        "id": "IDR",
+        "deviza_id": "IDR",
         "description": "indonéz rúpia",
-        "rate": "100",
+        "rate": "2,31",
         "date": "2024-03-08"
     },
     {
-        "id": "ILS",
+        "deviza_id": "ILS",
         "description": "izraeli sékel",
-        "rate": "1",
+        "rate": "101,03",
         "date": "2024-03-08"
     },
     {
-        "id": "INR",
+        "deviza_id": "INR",
         "description": "indiai rúpia",
-        "rate": "1",
+        "rate": "4,36",
         "date": "2024-03-08"
     },
     {
-        "id": "ISK",
+        "deviza_id": "ISK",
         "description": "izlandi korona",
-        "rate": "1",
+        "rate": "2,65",
         "date": "2024-03-08"
     },
     {
-        "id": "JPY",
+        "deviza_id": "JPY",
         "description": "japán jen",
-        "rate": "100",
+        "rate": "245,21",
         "date": "2024-03-08"
     },
     {
-        "id": "KRW",
+        "deviza_id": "KRW",
         "description": "dél-koreai won",
-        "rate": "100",
+        "rate": "27,40",
         "date": "2024-03-08"
     },
     {
-        "id": "MXN",
+        "deviza_id": "MXN",
         "description": "mexikói peso",
-        "rate": "1",
+        "rate": "21,39",
         "date": "2024-03-08"
     },
     {
-        "id": "MYR",
+        "deviza_id": "MYR",
         "description": "maláj ringgit",
-        "rate": "1",
+        "rate": "77,02",
         "date": "2024-03-08"
     },
     {
-        "id": "NOK",
+        "deviza_id": "NOK",
         "description": "norvég korona",
-        "rate": "1",
+        "rate": "34,78",
         "date": "2024-03-08"
     },
     {
-        "id": "NZD",
+        "deviza_id": "NZD",
         "description": "új-zélandi dollár",
-        "rate": "1",
+        "rate": "223,17",
         "date": "2024-03-08"
     },
     {
-        "id": "PHP",
+        "deviza_id": "PHP",
         "description": "fülöp-szigeteki peso",
-        "rate": "1",
+        "rate": "6,49",
         "date": "2024-03-08"
     },
     {
-        "id": "PLN",
+        "deviza_id": "PLN",
         "description": "lengyel zloty",
-        "rate": "1",
+        "rate": "91,60",
         "date": "2024-03-08"
     },
     {
-        "id": "RON",
+        "deviza_id": "RON",
         "description": "román lej",
-        "rate": "1",
+        "rate": "79,39",
         "date": "2024-03-08"
     },
     {
-        "id": "RSD",
+        "deviza_id": "RSD",
         "description": "szerb dinár",
-        "rate": "1",
+        "rate": "3,37",
         "date": "2024-03-08"
     },
     {
-        "id": "RUB",
+        "deviza_id": "RUB",
         "description": "orosz rubel",
-        "rate": "1",
+        "rate": "3,98",
         "date": "2024-03-08"
     },
     {
-        "id": "SEK",
+        "deviza_id": "SEK",
         "description": "svéd korona",
-        "rate": "1",
+        "rate": "35,35",
         "date": "2024-03-08"
     },
     {
-        "id": "SGD",
+        "deviza_id": "SGD",
         "description": "szingapúri dollár",
-        "rate": "1",
+        "rate": "271,05",
         "date": "2024-03-08"
     },
     {
-        "id": "THB",
+        "deviza_id": "THB",
         "description": "thai bát",
-        "rate": "1",
+        "rate": "10,19",
         "date": "2024-03-08"
     },
     {
-        "id": "TRY",
+        "deviza_id": "TRY",
         "description": "török líra",
-        "rate": "1",
+        "rate": "11,29",
         "date": "2024-03-08"
     },
     {
-        "id": "UAH",
+        "deviza_id": "UAH",
         "description": "ukrán hrivnya",
-        "rate": "1",
+        "rate": "9,47",
         "date": "2024-03-08"
     },
     {
-        "id": "ZAR",
+        "deviza_id": "ZAR",
         "description": "dél-afrikai rand",
-        "rate": "1",
+        "rate": "19,34",
         "date": "2024-03-08"
     }
 ]

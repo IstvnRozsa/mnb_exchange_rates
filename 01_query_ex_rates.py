@@ -4,9 +4,7 @@ import json
 import re
 import locale
 locale.getlocale()
-locale.setlocale(locale.LC_TIME, 'hu_HU') # this sets the date time formats to es_ES, there are many other options for currency, numbers etc. 
-
-
+locale.setlocale(locale.LC_TIME, 'hu_HU') 
 import datetime
 
 url = "https://www.mnb.hu/arfolyamok"
@@ -37,9 +35,9 @@ def get_data(id, date_part):
             row_data = [cell.text.strip() for cell in cells]
             exchange_rates.append(
                 {
-                    "id":row_data[0],
+                    "deviza_id":row_data[0],
                     "description":row_data[1],
-                    "rate":row_data[2],
+                    "rate":row_data[3],
                     "date": date_part
                 }
             )
