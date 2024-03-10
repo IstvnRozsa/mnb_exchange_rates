@@ -51,7 +51,7 @@ second_table = get_data(1, date_part)
 full_table = first_table + second_table
 
 # Save the list of products as JSON
-with open("exchange_rates.json", "w", encoding="UTF-8") as json_file:
+with open("data/exchange_rates.json", "w", encoding="UTF-8") as json_file:
     json.dump(full_table, json_file, indent=4, ensure_ascii=False)
 
         

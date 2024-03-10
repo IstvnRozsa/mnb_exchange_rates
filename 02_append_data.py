@@ -9,7 +9,7 @@ DB_HOST = "localhost"
 DB_PORT = "5435"
 
 
-with open("exchange_rates.json", "r", encoding="utf-8") as json_file:
+with open("data/exchange_rates.json", "r", encoding="utf-8") as json_file:
     json_data = json.load(json_file)
   
 
