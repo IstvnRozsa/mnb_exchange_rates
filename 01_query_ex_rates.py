@@ -4,7 +4,12 @@ import json
 import re
 import locale
 locale.getlocale()
-locale.setlocale(locale.LC_TIME, 'hu_HU') 
+
+locale.setlocale(
+    category=locale.LC_ALL,
+    locale="Hungarian"
+)
+
 import datetime
 
 url = "https://www.mnb.hu/arfolyamok"
